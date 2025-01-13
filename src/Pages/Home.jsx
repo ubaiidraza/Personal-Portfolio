@@ -158,7 +158,7 @@ const Home = () => {
           <i className="fab fa-instagram"></i>
         </a>
       </div>
-      <a href="/img/ubaid.pdf" download="Ubaid_Raza_CV">
+      <a href="public/img/Ubaid.pdf" download="Ubaid_Raza_CV">
         <button className="mt-6 bg-orange-500 hover:bg-orange-600 text-white font-bold py-2 px-6 rounded-full transition duration-300">
           Download CV
         </button>
